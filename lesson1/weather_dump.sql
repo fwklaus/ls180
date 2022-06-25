@@ -38,15 +38,15 @@ ALTER TABLE public.weather OWNER TO fwklaus;
 -- Data for Name: weather; Type: TABLE DATA; Schema: public; Owner: fwklaus
 --
 
+INSERT INTO public.weather VALUES ('2016-03-01', 34, 43, 0.118);
+INSERT INTO public.weather VALUES ('2016-03-02', 32, 44, 0.118);
+INSERT INTO public.weather VALUES ('2016-03-03', 31, 47, 0.157);
+INSERT INTO public.weather VALUES ('2016-03-04', 33, 42, 0.079);
+INSERT INTO public.weather VALUES ('2016-03-05', 39, 46, 0.276);
+INSERT INTO public.weather VALUES ('2016-03-06', 32, 43, 0.079);
 INSERT INTO public.weather VALUES ('2016-03-07', 29, 32, 0.000);
 INSERT INTO public.weather VALUES ('2016-03-08', 23, 31, 0.000);
 INSERT INTO public.weather VALUES ('2016-03-09', 17, 28, 0.000);
-INSERT INTO public.weather VALUES ('2016-03-01', 34, 43, 0.117);
-INSERT INTO public.weather VALUES ('2016-03-02', 32, 44, 0.117);
-INSERT INTO public.weather VALUES ('2016-03-03', 31, 47, 0.156);
-INSERT INTO public.weather VALUES ('2016-03-04', 33, 42, 0.078);
-INSERT INTO public.weather VALUES ('2016-03-05', 39, 46, 0.273);
-INSERT INTO public.weather VALUES ('2016-03-06', 32, 43, 0.078);
 
 
 --
